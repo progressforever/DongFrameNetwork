@@ -1,0 +1,8 @@
+[INFO] [Wed] 2018-10-17 22:17:07 LogHandler.py[line:29]: Finish init work
+[WARNING] [Wed] 2018-10-17 22:17:07 tf_logging.py[line:90]: From /home/frank/Documents/Program/Python_program/DongNetworkFramework/Source/Model/BasicNetArchitecture.py:27: UniformUnitScaling.__init__ (from tensorflow.python.ops.init_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.initializers.variance_scaling instead with distribution=uniform to get equivalent behavior.
+[INFO] [Wed] 2018-10-17 22:17:08 LogHandler.py[line:29]: The train graph builds completely.
+[INFO] [Wed] 2018-10-17 22:17:09 LogHandler.py[line:29]: Finish training init work
+[INFO] [Wed] 2018-10-17 22:17:22 LogHandler.py[line:29]: 2018-10-17 22:17:22.783783: epoch 0, train acc = 0.3695, train loss = 0.0787, duration = 11.9 sec
+[INFO] [Wed] 2018-10-17 22:17:23 LogHandler.py[line:29]: 2018-10-17 22:17:23.369905: epoch 0, val acc = 0.3872, val loss = 0.0791, duration = 0.6 sec
